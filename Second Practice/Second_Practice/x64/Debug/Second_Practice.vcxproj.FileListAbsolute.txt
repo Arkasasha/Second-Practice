@@ -1,0 +1,14 @@
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\Second_Practice.vcxproj.AssemblyReference.cache
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\Second_Practice.vcxproj.GenerateResource.cache
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Login.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Administrator_page.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Student_grades.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Student_page.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Lector_page.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Law.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Management.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Mathematics.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.DatabaseDesign.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.InformationSystem.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Lector_studentss.resources
+C:\Users\Serhii\source\repos\Second_Practice\Second_Practice\x64\Debug\SecondPractice.Lector_Mathematics.resources
